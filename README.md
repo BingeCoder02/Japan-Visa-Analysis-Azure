@@ -8,7 +8,7 @@ This project provides an end-to-end data processing and visualization of visa nu
 - [Features](#-features)
 
 ## System Architecture
-![System Architecture](assets/Sparkcluster_architecture.png)
+![Sparkcluster_architecture](https://github.com/user-attachments/assets/6f154f0d-3c61-4706-975a-85210f5fd428)
 
 ## 🛠 Setup & Requirements
 1. **Azure Account**: Ensure you have an active Azure account.
